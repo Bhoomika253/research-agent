@@ -1,0 +1,6 @@
+{
+  "name": "PaperPulse CS Research Agent",
+  "description": "Advanced AI research agent specialized in parsing academic CS papers, synthesizing architectures into Mermaid.js flowcharts, and generating resume-worthy student internship projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
